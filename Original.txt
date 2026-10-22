@@ -1,3 +1,0 @@
-Rabin Karp rolling hash enables fast pattern scanning across sliding text windows.
-Photosynthesis is the natural process used by plants to convert light into chemical energy.
-Chlorophyll absorbs light energy and utilizes water and carbon dioxide to produce glucose.

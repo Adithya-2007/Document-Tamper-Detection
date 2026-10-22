@@ -7,3 +7,9 @@ venv/
 .venv/
 .DS_Store
 Thumbs.db
+
+# Legacy files & presentation
+*.pptx
+code.py
+Original.txt
+Test_*.txt

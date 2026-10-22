@@ -1,5 +1,0 @@
-streamlit
-pandas
-pypdf2
-python-docx
-reportlab
